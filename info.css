@@ -1,0 +1,13 @@
+body{
+    background-color:#98f6ff;
+    
+}
+
+
+.info{
+  color: #fa59e1;
+  font-size: 200px;
+ display: flex;
+justify-content: center;
+align-items: center;
+}
